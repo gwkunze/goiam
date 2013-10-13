@@ -8,3 +8,11 @@ Documentation
 =============
 
 See http://godoc.org/github.com/gwkunze/goiam/policy
+
+
+Installation
+============
+
+```
+go get github.com/gwkunze/goiam/policy
+```
