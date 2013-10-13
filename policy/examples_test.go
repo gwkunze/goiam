@@ -32,7 +32,9 @@ func ExampleNewPolicy() {
 	//             "Sid": "statement-id",
 	//             "Effect": "Allow",
 	//             "Principal": {
-	//                 "AWS": "*"
+	//                 "AWS": [
+	//                     "*"
+	//                 ]
 	//             },
 	//             "Action": [
 	//                 "Describe*"
