@@ -1,3 +1,10 @@
+//
+// Copyright (c) 2013 Gijs Kunze
+//
+// For the full copyright and license information, please view the LICENSE
+// file that was distributed with this source code.
+//
+
 // Package policy provides the methods and data structures needed to parse and
 // create IAM policy documents
 package policy
